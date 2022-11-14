@@ -14,3 +14,9 @@ future References:
 Transations will be encrypted using blockchain technology.
 Collaborations could be done with the labs, pharmacies and the hospitals.
 chatbots will be used for the 24*7 consumer interations and many more.
+
+# Technology Used:
+Front-end, Back-end, Blockchain
+
+# Future Scope:
+We are going to secure our data through Blockchain. Also going to take take payment using Blockchain.
